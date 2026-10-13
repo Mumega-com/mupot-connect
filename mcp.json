@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mupot": {
+      "type": "http",
+      "url": "https://mupot.mumega.com/mcp",
+      "placement": "server"
+    }
+  }
+}

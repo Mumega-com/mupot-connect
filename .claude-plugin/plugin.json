@@ -1,0 +1,15 @@
+{
+  "name": "mupot",
+  "version": "1.0.0",
+  "description": "See your mupot inbox, tasks, and the approvals waiting on you, from inside your coding agent. Approvals stay in your own secure link.",
+  "author": {
+    "name": "Mumega",
+    "email": "hadi@mumega.com",
+    "url": "https://mupot.mumega.com"
+  },
+  "homepage": "https://mupot.mumega.com",
+  "repository": "https://github.com/Mumega-com/mupot-connect",
+  "license": "MIT",
+  "keywords": ["mupot", "mumega", "mupot inbox", "mupot tasks", "mupot approvals"],
+  "logo": "assets/logo.png"
+}
